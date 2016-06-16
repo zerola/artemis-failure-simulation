@@ -2,7 +2,7 @@
 
 ## Compilation
 
-$ _mvn clean package_
+$ _mvn clean package dependency:copy-dependencies_
 
 ## Failure case 1
 
